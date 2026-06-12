@@ -1,0 +1,6 @@
+a=input("Enter the name: ")
+b=int(input("Enter the age: "))
+years=2026+(100-b)
+print(f"Hello {a}")
+print(f"At present your age is {b}")
+print(f"You will turn to 100 at the year of {years}")
